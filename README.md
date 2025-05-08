@@ -1,78 +1,66 @@
-##📝 TO-DO LIST Web App
+# 📝 TO-DO LIST Web Application
 
-A simple and elegant TO-DO LIST web application built using **HTML**, **CSS**, and **JavaScript**. Organize your daily tasks efficiently with this minimal and interactive task manager.
-
----
+A simple and clean To-Do List web app built using **HTML**, **CSS**, and **JavaScript**. This project allows users to manage their daily tasks efficiently by adding, deleting, and marking tasks as completed.
 
 ## 🚀 Features
 
-- 🆕 Add new tasks
-- ✅ Mark tasks as completed
+- ✅ Add new tasks
 - ❌ Delete tasks
-- ♻️ Auto updates without refreshing
-- 💾 Data saved in memory (future update: localStorage support)
-- 📱 Responsive design for mobile & desktop
+- 🔁 Mark tasks as completed
+- 💾 Tasks persist using local storage
+- 📱 Responsive design for mobile and desktop
 
----
+## 📸 Demo
 
-## 📸 Demo Preview
+![TO-DO List Screenshot](screenshot.png) <!-- Replace with actual screenshot if available -->
 
-![To Do List Demo](https://user-images.githubusercontent.com/your-screenshot-link.png) <!-- Replace with your image link if available -->
+## 🛠️ Technologies Used
 
----
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Local Storage API
 
-## 🛠️ Tech Stack
-
-- HTML5 `📄`
-- CSS3 `🎨`
-- JavaScript `⚙️`
-
----
-
-## 📂 Folder Structure
+## 📂 Project Structure
 
 TO-DO-LIST/
 │
-├── index.html          # Main HTML file
-├── style.css           # Styling the UI
-└── script.js           # Adding interactivity 
+├── index.html # Main HTML file
+├── style.css # Styling for the app
+├── script.js # Main JavaScript logic
+└── README.md # Project documentation
 
----
-##📌 How to Use:
 
-1.🔽 Clone the repository
+## 🔧 How to Use
 
-git clone https://github.com/SURIYA273/TO-DO-LIST.git
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SURIYA273/TO-DO-LIST.git
+2.Open the project folder:
 
-2.📂 Navigate to the project folder
+    cd TO-DO-LIST
+    
+3.Open index.html in your browser to start using the To-Do List.
 
-cd TO-DO-LIST
+🎯 Future Enhancements
 
-3.🚀 Open index.html in your browser and start using it!
+✅ Add drag-and-drop task reordering
 
----
+✅ Set deadlines and reminders for tasks
 
-✨ Future Enhancements:
+✅ User authentication and cloud sync
 
-🔒 LocalStorage support for saving tasks
+📬 Contact:
 
-🎨 Dark/Light theme toggle
+Created by SURIYA 
 
-📅 Due dates & reminders
+For feedback or collaboration, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/suriya273) or [email](suriyamail273@gmail.com)
 
----
-
-🙌 Acknowledgements:
-
-This project is part of my Web Development Internship at InternPe. Special thanks to the mentors and community for continuous support and feedback.
-
----
-
-📬 Connect With Me:
-
-💼 [LinkedIn]
+⭐️ Don’t forget to star this repo if you found it useful!
 
 
 ---
-Made with ❤️ by SURIYA 
+
+Let me know if you want me to add badges, a live preview link, or deployment instructions.
+
 
