@@ -1,4 +1,4 @@
-📝 TO-DO LIST Web App
+##📝 TO-DO LIST Web App
 
 A simple and elegant TO-DO LIST web application built using **HTML**, **CSS**, and **JavaScript**. Organize your daily tasks efficiently with this minimal and interactive task manager.
 
@@ -31,7 +31,6 @@ A simple and elegant TO-DO LIST web application built using **HTML**, **CSS**, a
 
 ## 📂 Folder Structure
 
-```plaintext
 TO-DO-LIST/
 │
 ├── index.html          # Main HTML file
@@ -39,8 +38,7 @@ TO-DO-LIST/
 └── script.js           # Adding interactivity 
 
 ---
-
-📌 How to Use:
+##📌 How to Use:
 
 1.🔽 Clone the repository
 
